@@ -1,0 +1,19 @@
+.midsection{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 27px;
+}
+
+.midsection p{
+    border: 2px solid grey;
+    background-color: gray;
+    border-radius: 35px;
+    padding: 15px;
+    cursor: pointer;
+}
+
+.midsection p:hover{
+    background-color:rgba(84, 84, 84, 0.064);
+}

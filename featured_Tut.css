@@ -1,0 +1,11 @@
+.Btmsection p {
+    color: white;
+    font-size: 40px;
+    font-weight: 40px;
+}
+
+.Btmsection {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
